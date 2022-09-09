@@ -3,4 +3,22 @@
     height: 1.5rem;
     background-image: url("../img/header/Menu.svg");
     display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cabecalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem {
+    padding: 1em;
 }
