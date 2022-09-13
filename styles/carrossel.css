@@ -63,3 +63,26 @@
   font-size: 14px;
   line-height: 21px;
 }
+
+.card__botoes {
+  padding: 1rem 0;
+}
+
+.botoes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+li > button {
+  font-family: var(--fonte-principal);
+  border: none;
+  color: var(--branco);
+  background-color: var(--laranja);
+  padding: 1em 2.2em;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
