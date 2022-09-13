@@ -31,9 +31,6 @@
     width: 60vw;
 }
 
-.container__botao:checked~.lista-menu {
-    display: block;
-}
 
 .lista-menu__item,
 .lista-menu__titulo {
@@ -57,3 +54,12 @@
 .container__botao {
     display: none;
 }
+
+.container__botao:checked~.lista-menu {
+    display: block;
+}
+
+.container__botao:checked+label>.cabecalho__menu-hamburguer {
+    background-image: url(../img/header/menu\ active.svg);
+}
+

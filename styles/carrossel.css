@@ -26,7 +26,6 @@
 }
 
 .card {
-  height: 295px;
   margin: 1em;
   padding: 1em;
 
@@ -47,7 +46,6 @@
 .descricao__titulo {
   color: var(--laranja);
   font-weight: 700;
-  font-size: 16px;
   line-height: 24px;
 }
 
@@ -55,28 +53,32 @@
   color: var(--descricao-titulo-livro);
   font-weight: 700;
   font-size: 18px;
-  line-height: 27px
+  margin: 0.5rem 0;
 }
 
 .descricao__texto {
   font-weight: 400;
   font-size: 14px;
-  line-height: 21px;
 }
 
 .card__botoes {
-  padding: 1rem 0;
-}
-
-.botoes {
+  margin-top: 1rem;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
 
+.botoes {
+  display: flex;
+  justify-content: space-evenly;
+}
 
-li > button {
+.botoes__item {
+  margin: 0 1rem;
+}
+
+.botoes__ancora {
+  text-decoration: none;
   font-family: var(--fonte-principal);
   border: none;
   color: var(--branco);
