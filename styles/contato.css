@@ -30,9 +30,9 @@
 }
 
 .contato__email::placeholder {
+  background: url(../img/contatos/envelope.svg) no-repeat;
   font-family: var(--fonte-principal);
   color: var(--azul);
-  background: url(../img/contatos/envelope.svg) no-repeat;
   padding-left: 2rem;
 }
 
