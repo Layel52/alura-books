@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Alura Books</h1>
+<h1 align="center">Alura Books</h1>
 </br>
 <h2>Motivação Projeto</h2>
 </br>
@@ -9,7 +9,7 @@ O projeto foi selecionado por ter três variações de layout com uma grade dive
 </br></br></br>
 
 <h2>Resultado do Projeto:</h2>
-<div style="text-align: center;">
+<div align="center">
 <hr/></br>
 <h2>Display Mobile</h2>
 <img src="img\to_readme\Video_221101123400.gif">
@@ -21,9 +21,9 @@ O projeto foi selecionado por ter três variações de layout com uma grade dive
 <img src=".\img\to_readme\Video_221101123828.gif">
 </div>
 <hr/></br></br>
-<h3>Tecnologias utilizadas no projeto:</h3>
-<div style="text-align: center; margin: 1em;">
+<h3 margin-bottom: 16px>Tecnologias utilizadas no projeto:</h3>
+<div align="center">
 <img src="https://skills.thijs.gg/icons?i=js,html,css">
 </div></br></br>
 <h2>Acesse o link abaixo para vizualizar:</h2><hr></br>
-<a>https://layel52.github.io/alura-books/</a>
+<a href="https://layel52.github.io/alura-books">https://layel52.github.io/alura-books/</a>
