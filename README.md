@@ -25,5 +25,5 @@ O projeto foi selecionado por ter três variações de layout com uma grade dive
 <div align="center">
 <img src="https://skills.thijs.gg/icons?i=js,html,css">
 </div></br></br>
-<h2>Acesse o link abaixo para vizualizar:</h2><hr></br>
+<h2>Acesse o link abaixo para vizualizar:</h2>
 <a href="https://layel52.github.io/alura-books">https://layel52.github.io/alura-books/</a>
